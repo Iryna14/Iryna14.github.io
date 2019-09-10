@@ -1,0 +1,53 @@
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	margin: 5px 50px 5px 5px;
+
+}
+
+h1 {text-align: center;
+	color: #661141;
+	font-family: 'Satisfy', cursive;
+	font-size: 100px;
+  
+}
+h3{color: #661141;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+ }
+ .more {color: black;
+ font-size: 90%;
+
+ }
+.foto {
+	border: 2px solid #aa5585;
+	display: inline-flex;
+	border-radius: 10px;
+}
+p {
+	margin-left: 40px;
+}
+.block {
+  display: block;
+  width: 75%;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 28px;
+  font-size: 25px;
+  cursor: pointer;
+  text-align: center;
+  margin: 75px 0 75px 200px;
+border-radius: 10px;}
+
+
+.block:hover {
+  background-color: blue;
+  color: black;
